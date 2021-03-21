@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "hibernate.search.default.directory_provider",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.search.default.directory_provider'"
+  },
+  {
+    "name": "hibernate.search.backend.analysis.configurer",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.search.backend.analysis.configurer'"
+  }
+]}

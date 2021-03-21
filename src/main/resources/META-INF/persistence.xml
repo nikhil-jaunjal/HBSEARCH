@@ -1,0 +1,1 @@
+<property name="hibernate.search.backend.directory.root" value="/home/mindbowser/Projects-Java/Employee-Manager-Demo/src/main/resources"/>
